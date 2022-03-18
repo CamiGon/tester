@@ -1,3 +1,16 @@
+# Welcome to Programing with Sebita
+
+## Tools
+
+ * Linux / Bash
+ * VS Code
+ * MarkDown
+
+## Programming
+ * Conda - Python
+
+
+
 Comandos:
 ls -> lista
 git status -> estado de mi repositorio
