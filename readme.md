@@ -2,13 +2,26 @@
 
 ## Tools
 
+ * git
  * Linux / Bash
+ * Docker
  * VS Code
  * MarkDown
 
 ## Programming
  * Conda - Python
-
+ * Estructuras de datos
+   *  Listas
+   *  Colas
+   *  Arboles
+   *  Hashtables
+   *  Grafos
+ * Algoritmos Basicos
+   * Busqueda
+   * Ordenamiento
+   * Operaciones con `strings`
+   * Operaciones con `archivos`
+   
 
 
 Comandos:
